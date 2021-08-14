@@ -8,7 +8,7 @@ Your task is to create a command-line application that dynamically generates a p
 
 ## Installation
 
-The Instructional video can be viewed at: https://https://github.com/AWiebe2021/README-Generator/walkthrough.mp4
+The Instructional video can be viewed at: https://github.com/AWiebe2021/README-Generator/blob/main/walkthrough.mp4
 The projects code can be accessed at: https://github.com/AWiebe2021/README-Generator/
 
 ## Screenshot
